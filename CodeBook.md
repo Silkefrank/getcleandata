@@ -15,17 +15,17 @@ For this exercise only the variables for mean and standard deviation have been e
 
 ## Variables
 
-*1 subject: ranges from one to 30: identifies each of the 30 volunteers
-*2 activity: one of six possible activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+* 1 subject: ranges from one to 30: identifies each of the 30 volunteers
+* 2 activity: one of six possible activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 The following variables are normalized and bounded within [-1,1]
-*3 tBodyAcc-mean()-X
-*4 tBodyAcc-mean()-Y
-*5 tBodyAcc-mean()-Z
-*6 tBodyAcc-std()-X
-*7 tBodyAcc-std()-Y
-*8 tBodyAcc-std()-Z
-*9 tGravityAcc-mean()-X
+* 3 tBodyAcc-mean()-X
+* 4 tBodyAcc-mean()-Y
+* 5 tBodyAcc-mean()-Z
+* 6 tBodyAcc-std()-X
+* 7 tBodyAcc-std()-Y
+* 8 tBodyAcc-std()-Z
+* 9 tGravityAcc-mean()-X
 10. tGravityAcc-mean()-Y
 11. tGravityAcc-mean()-Z
 12. tGravityAcc-std()-X
