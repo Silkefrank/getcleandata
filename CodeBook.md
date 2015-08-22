@@ -18,7 +18,7 @@ For this exercise only the variables for mean and standard deviation have been e
 * 1 subject: ranges from one to 30: identifies each of the 30 volunteers
 * 2 activity: one of six possible activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-The following variables are normalized and bounded within [-1,1]
+The following variables are normalized and bounded within [-1,1]. They are the mean of the original measurements for each subject and activity.
 * 3 tBodyAcc-mean()-X
 * 4 tBodyAcc-mean()-Y
 * 5 tBodyAcc-mean()-Z
