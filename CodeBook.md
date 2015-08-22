@@ -4,6 +4,7 @@
 The source data was taken from Human Activity Recognition Using Smartphones Dataset (Version 1.0). 
 
 >The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed >six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S >II) on the waist.
+
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 You can find a full description here: 
